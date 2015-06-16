@@ -1,10 +1,8 @@
-# About
 
 Libraries for competitive programming contests.
 
 ## Test
 
 ```
-make check
+$ make check
 ```
-
